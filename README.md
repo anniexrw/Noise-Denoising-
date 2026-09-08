@@ -1,0 +1,2 @@
+- This is a computational analysis of a simulation by adding noise to an original MRI image and filtering the noisy image using different filtering techniques. 
+- By analyzing images and quantitative determination values, the image quality of the noisy image and the filtered images are compared.
